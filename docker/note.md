@@ -25,3 +25,10 @@
 - For persesting data
 - we can use default place to store the data like /va/lib/docker/volume/mysql-data/\_data
   or we can use a custom folder on any where on machine and link it as volume
+
+## Docker compose
+
+- tool to make things automatic
+- YAML -> KEY : VALUE
+- help in creating 1 or more containers
+- configure all setting in one file only
